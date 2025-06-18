@@ -1,6 +1,6 @@
 # Install OpenClash
 ## Step 1
-Append additional soruces to the feed distribution in `/etc/opkg/distfeeds.conf
+Append additional soruces to the feed distribution in `/etc/opkg/distfeeds.conf`
 ```
 src/gz openwrt_base https://downloads.openwrt.org/releases/21.02.3/packages/aarch64_cortex-a53/base
 src/gz openwrt_luci https://downloads.openwrt.org/releases/21.02.3/packages/aarch64_cortex-a53/luci
